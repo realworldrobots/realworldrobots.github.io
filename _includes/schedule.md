@@ -1,3 +1,5 @@
+### Schedule
+
 <div id = "LOCAL_TIME_SCHEDULE"></div>
 
 <table>
@@ -19,17 +21,17 @@
 
 <script>
   // top time
-  var start = new Date('7/1/2022 9:00:00 AM EDT');
-  var end = new Date('7/1/2022 5:00:00 PM EDT');
+  var start = new Date('{{ site.data.settings.workshop_date_short }} {{ site.data.settings.start_time }} {{ site.data.settings.time_zone }}');
+  var end = new Date('{{ site.data.settings.workshop_date_short }} {{ site.data.settings.end_time }} {{ site.data.settings.time_zone }}');
   var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
-  var startString = "The workshop will run from 9:00 AM to 5:00 PM EDT (New York Time) which is "
+  var startString = "The workshop will run from {{ site.data.settings.start_time }} to {{ site.data.settings.end_time }} {{ site.data.settings.time_zone_long }} which is "
   var endString = " in your local timezone (according to your computer system time)."
   document.getElementById('LOCAL_TIME_SCHEDULE').innerHTML = startString + localTime + endString;
   
   // all times
   var timeElements = document.getElementsByClassName("EDT_TIME");
   for (var i = 0; i < timeElements.length; i++) {
-    dateStr = '7/1/2022 ' + timeElements[i].innerHTML + ' EDT'
+    dateStr = '{{ site.data.settings.workshop_date_short }} ' + timeElements[i].innerHTML + ' EDT'
     var gmt_time = new Date(dateStr);
     timeElements[i].innerHTML = gmt_time.toLocaleTimeString([], {timeStyle: 'short'})
   }

@@ -6,7 +6,7 @@ plugins:
 remote_theme: dhilanr/jekyll-theme-crestlex
 
 url: https://realworldrobots.org
-baseurl: /
+baseurl: 
 
 title: Mind the Gap
 

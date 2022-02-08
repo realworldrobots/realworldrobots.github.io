@@ -8,19 +8,15 @@ title: false
   </center>
 </figure>
 
-## Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry
+## {{ site.data.settings.workshop_title }}
 
 {% include description.md %}
 
 {% include localtime.html %}
 
-### Speakers
+{% include people.md people=site.data.speakers title="Speakers" %}
 
-{% include people.md people=site.data.speakers %}
-
-### Schedule
-
-{% include schedule.html schedule=site.data.schedule %}
+{% include schedule.md schedule=site.data.schedule %}
 
 <!-- Jur van den Berg: From the lab to the streets: Deploying algorithms for self-driving cars
 Kristen Holtz: Human robot interaction for filmmaking
@@ -31,13 +27,11 @@ Dave Johnson and Sadra Sadraddini - Deploying robots with the flexibility to ach
  -->
 
 ### Registration
-Please visit the main [RSS 2022](https://roboticsconference.org) website for information on registering for conference workshops.
+Please visit the main [{{ site.data.settings.conference_short }}]({{ site.data.settings.conference_url }}) website for information on registering for conference workshops.
 
 <!-- ### Supporters
 We would like to thank **TBD** for their support. -->
 
-### Organizers
+{% include people.md people=site.data.organizers title="Organizers" %}
 
-{% include people.md people=site.data.organizers %}
-
-Contact [brian_plancher@g.harvard.edu](mailto:brian_plancher@g.harvard.edu) with any questions regarding this workshop.
+Contact [{{ site.data.settings.contact_email }}](mailto:{{ site.data.settings.contact_email }}) with any questions regarding this workshop.

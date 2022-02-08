@@ -1,2 +1,2 @@
-## [Mind the Gap: Opportunities and Challenges in the Transition Between Research and Industry]({{ "/" | relative_url }})
-*July 1 2022*
+## [{{ site.data.settings.workshop_title }}]({{ "/" | relative_url }})
+*{{ site.data.settings.workshop_date }}*

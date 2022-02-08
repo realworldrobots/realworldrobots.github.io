@@ -1,3 +1,5 @@
+### {{ include.title }}
+
 <div class="grid-container-team">
   {% for person in include.people %}
       <div class="grid-child">

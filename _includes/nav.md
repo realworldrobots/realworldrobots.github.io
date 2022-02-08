@@ -1,6 +1,6 @@
 ***
 
-* <a href = "https://roboticsconference.org/">An RSS 2022 Workshop<i aria-hidden="true" class="fas fa-external-link-alt"></i></a>
+* <a href = "{{ site.data.settings.conference_url }}">An {{ site.data.settings.conference_short }} Workshop<i aria-hidden="true" class="fas fa-external-link-alt"></i></a>
 
 ***
 
