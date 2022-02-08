@@ -1,0 +1,24 @@
+- name: Brian Plancher
+  image: brian.png
+  affiliation: Harvard University
+  title: PhD Candidate
+  website: https://brianplancher.com
+  email: brian_plancher@g.harvard.edu
+- name: Sarah Tang 
+  image: sarah.jpeg
+  affiliation: Waymo
+  title: Staff Software Engineer, Planning
+  website: https://www.sarahtang.net/
+  email: sytang@waymo.com
+- name: Sabrina M. Neuman
+  image: sabrina.jpg
+  affiliation: Harvard University
+  title: Postdoctoral Fellow
+  website: https://scholar.harvard.edu/sneuman
+  email: vj@eecs.harvard.edu
+- name: Vijay Janapa Reddi
+  image: vijay.png
+  affiliation: Harvard University
+  title: Associate Professor
+  website: https://scholar.harvard.edu/vijay-janapa-reddi
+  email: sneuman@g.harvard.edu

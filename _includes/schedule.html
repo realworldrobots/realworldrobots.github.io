@@ -1,0 +1,36 @@
+<div id = "LOCAL_TIME_SCHEDULE"></div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Topic</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for event in include.schedule %}
+    <tr>
+      <td>{{event.time}}</td>
+      <td>{{event.topic}}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<script>
+  // top time
+  var start = new Date('7/1/2022 9:00:00 AM EDT');
+  var end = new Date('7/1/2022 5:00:00 PM EDT');
+  var localTime = start.toLocaleTimeString([], {timeStyle: 'short'}) + " to " + end.toLocaleTimeString([], {timeStyle: 'short'});
+  var startString = "The workshop will run from 9:00 AM to 5:00 PM EDT (New York Time) which is "
+  var endString = " in your local timezone (according to your computer system time)."
+  document.getElementById('LOCAL_TIME_SCHEDULE').innerHTML = startString + localTime + endString;
+  
+  // all times
+  var timeElements = document.getElementsByClassName("EDT_TIME");
+  for (var i = 0; i < timeElements.length; i++) {
+    dateStr = '7/1/2022 ' + timeElements[i].innerHTML + ' EDT'
+    var gmt_time = new Date(dateStr);
+    timeElements[i].innerHTML = gmt_time.toLocaleTimeString([], {timeStyle: 'short'})
+  }
+</script>

@@ -1,0 +1,61 @@
+- name: Jur van den Berg
+  image: jur.jpeg
+  affiliation: Ike (Now part of Nuro)
+  affiliation_url: https://www.nuro.ai/
+  title: CTO and Co-Founder of Ike
+  website: https://www.linkedin.com/in/jurvandenberg
+  email: jurvandenberg@gmail.com
+- name: Kristen Holtz
+  image: kristen.jpeg
+  affiliation: Skydio
+  affiliation_url: https://www.skydio.com/
+  title: Head of Tracking & Cinematics
+  website: https://www.linkedin.com/in/kristen-holtz
+  email: kristen@skydio.com
+- name: Scott Kuindersma
+  image: scott.jpeg
+  affiliation: Boston Dynamics
+  affiliation_url: https://www.bostondynamics.com/
+  title: Research Scientist
+  website: https://www.linkedin.com/in/scott-kuindersma-06a38152/
+  email: skuindersma@bostondynamics.com
+- name: Vivian Chu
+  image: vivian.jpg
+  affiliation: Diligent Robotics
+  affiliation_url: https://www.diligentrobots.com/
+  title: Co-Founder and CEO
+  website: https://www.vivianchu.org/
+  email: vchu@diligentrobots.com
+- name: Vuyo Makhuvha
+  image: vuyo.jpeg
+  affiliation: August Robotics
+  affiliation_url: http://www.augustrobotics.com/
+  title: Head of Strategy and Growth
+  website: https://hk.linkedin.com/in/vuyo-makhuvha-b23496175
+  email: vuyo@augustrobotics.com
+- name: Dave Johnson
+  image: dave.jpeg
+  affiliation: Dexai Robotics
+  affiliation_url: https://www.dexai.com/
+  title: CEO
+  website: https://www.linkedin.com/in/dmsjohnson/
+  email: dave@dexai.com
+- name: Sadra Sadraddini
+  image: sadra.jpeg
+  affiliation: Dexai Robotics
+  affiliation_url: https://www.dexai.com/
+  title: Principal Robotics Engineer
+  website: https://sadraddini.com/
+  email: sadra@dexai.com
+# - name: Abraham Schneider
+#   image: 
+#   affiliation: Berkshire Grey
+#   title: Software Engineer
+#   website: 
+#   email: abe@berkshiregray.com 
+# - name: Clara Vu
+#   image: 
+#   affiliation: Veo Robotics
+#   title: Co-Founder and CEO
+#   website: 
+#   email: 
