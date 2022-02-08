@@ -18,14 +18,6 @@ title: false
 
 {% include schedule.md schedule=site.data.schedule %}
 
-<!-- Jur van den Berg: From the lab to the streets: Deploying algorithms for self-driving cars
-Kristen Holtz: Human robot interaction for filmmaking
-Scott Kuindersma: Highly dynamic motion planning and control for hummanoid robots
-Vivian Chu: Robots to support and empower patient care teams
-Vuyo Makhuvha - A product view of commercial robotics
-Dave Johnson and Sadra Sadraddini - Deploying robots with the flexibility to achieve in unstructured environments
- -->
-
 ### Registration
 Please visit the main [{{ site.data.settings.conference_short }}]({{ site.data.settings.conference_url }}) website for information on registering for conference workshops.
 

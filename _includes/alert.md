@@ -1,1 +1,1 @@
-Join the [Zoom](TBD)!
+Join the [Zoom]({{ site.data.settings.zoom_link }})!
