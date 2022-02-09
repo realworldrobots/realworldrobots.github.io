@@ -7,6 +7,10 @@
         <b>{{person.name}}</b><br>
         {{person.title}}<br>
         <i>{{person.affiliation}}</i><br>
+        {% if person.title2 And person.affiliation2 %}
+        {{person.title2}}<br>
+        <i>{{person.affiliation2}}</i><br>
+        {% endif %}
         <a href="{{person.website}}">Personal Website</a><br>
       </div>
   {% endfor %} 
