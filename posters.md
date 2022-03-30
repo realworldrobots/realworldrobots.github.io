@@ -31,7 +31,7 @@ Following the model set by the main RSS conference we are going to use a double-
 + **Submission Deadline:** Friday, May 13, 2022 (23:59 AoE)
 + **Author Notification:** Friday, May 27, 2022
 + **Poster PDF and Video Submission Deadline**: Thursday, June 23, 2022 (23:59 AoE)
-+ **Workshop:** June 27, 2022 or July 1, 2022 (exact date TBD)
++ **Workshop:** July 1, 2022
 
 ### Questions?
 
