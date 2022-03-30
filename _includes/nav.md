@@ -5,7 +5,7 @@
 ***
 
 * [Home]({{ "/#" | relative_url }})
-* [Posters]({{ "/posters" | relative_url }})
+* [Call for Lightning Talks]({{ "/cfp" | relative_url }})
 * [Speakers]({{ "/#speakers" | relative_url }})
 * [Schedule]({{ "/#schedule" | relative_url }})  
 * [Registration]({{ "/#registration" | relative_url }})

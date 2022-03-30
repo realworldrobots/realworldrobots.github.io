@@ -8,7 +8,7 @@ title: Posters
   </center>
 </figure>
 
-## [Call for Posters](https://easychair.org/cfp/MTG-RSS-22)
+## [Call for Lightning Talks](https://easychair.org/cfp/MTG-RSS-22)
 
 We are soliciting **1-2 page extended abstracts** targeting work involving robot hardware, especially encouraging presentation of "positive" and "negative" results (opportunities and challenges) that otherwise might have trouble finding a suitable venue. We hope this will be an opportunity to not just connect researchers working on hardware with each other, but also give them access to feedback from industry professionals. We are particularly interested in posters that discuss:
 + Critical software and hardware debugging experiences and insightful failed algorithmic and system level research attempts that are typically not “publishable”,
@@ -16,9 +16,9 @@ We are soliciting **1-2 page extended abstracts** targeting work involving robot
 + Surprising discoveries gleaned from deploying algorithms onto physical robots,
 + Work from early career students and professionals
 
-### A Hybrid Poster Session
+### A Hybrid Lightning Talk Format
 
-To support a hybrid poster session we will require all accepted posters to be submitted electronically along with a short (<3 minute) video describing the poster *before the start of the conference* so we can post them on our website for virtual attendees. We will then give each poster a designated time slot in which they will be supported by a virtual attendees coordinate to ensure that remote participants are able to fully interact with each poster.
+All lightning talks will follow the model of ICRA 2022 where we will require all accepted lightning talks to submit a **maximum 3 minute video** describing their work *before the start of the conference*. Quoting from ICRA 2022 "For authors who are attending in person, we will play the video without sound and you will present; think about the video as an automatically advancing powerpoint presentation. For authors who are remote, we will play the video with sound." Immediately following the lighting talks we will have breakout sessions with Q&A for the lightning talks.
 
 ### Submission Instructions
 
@@ -30,7 +30,7 @@ Following the model set by the main RSS conference we are going to use a double-
 
 + **Submission Deadline:** Friday, May 13, 2022 (23:59 AoE)
 + **Author Notification:** Friday, May 27, 2022
-+ **Poster PDF and Video Submission Deadline**: Thursday, June 23, 2022 (23:59 AoE)
++ **Final Abstract PDF and Video Submission Deadline**: Thursday, June 23, 2022 (23:59 AoE)
 + **Workshop:** July 1, 2022
 
 ### Questions?

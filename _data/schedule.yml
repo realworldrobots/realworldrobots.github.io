@@ -1,30 +1,31 @@
-- time: 9:00-9:15
-  topic: Morning Coffee
-  meal: true
-- time: 9:15-9:25
+- time: 9:00-9:10
   topic: Welcome and Agenda by the Organizers
-- time: 9:25-10:25
+- time: 9:10-10:10
   topic: Opening Keynote with Q&A
-- time: 10:25-10:45
-  topic: Coffee Break
-- time: 10:45-11:20
+- time: 10:10-10:40
   topic: Shorter Talk A with Q&A
-- time: 11:20-11:55
+- time: 10:40-11:00
+  topic: Coffee Break
+- time: 11:00-11:30
   topic: Shorter Talk B with Q&A
-- time: 11:55-12:15
-  topic: Lighting Talks on Accepted Posters
-- time: 12:15-1:45
-  topic: Lunch and Poster Session
+- time: 11:30-12:00
+  topic: Lighting Talks on Accepted Abstracts
+- time: 12:00-12:30
+  topic: Lighting Talk Q&A Breakouts
+- time: 12:30-1:30
+  topic: Lunch Break
   meal: true
-- time: 1:45-2:20
+- time: 1:30-2:00
   topic: Shorter Talk C with Q&A
-- time: 2:20-2:55
+- time: 2:00-2:30
   topic: Shorter Talk D with Q&A
-- time: 2:55-3:30
+- time: 2:30-3:00
   topic: Shorter Talk E with Q&A
-- time: 3:30-3:50
+- time: 3:00-3:20
   topic: Coffee Break
   meal: true
+- time: 3:20-3:50
+  topic: Shorter Talk F with Q&A
 - time: 3:50-4:50
   topic: Closing Keynote and Q&A
 - time: 4:50-5:00
