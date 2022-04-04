@@ -10,7 +10,7 @@ title: Posters
 
 ## [Call for Lightning Talks](https://easychair.org/cfp/MTG-RSS-22)
 
-We are soliciting **1-2 page extended abstracts** targeting work involving robot hardware, especially encouraging presentation of "positive" and "negative" results (opportunities and challenges) that otherwise might have trouble finding a suitable venue. We hope this will be an opportunity to not just connect researchers working on hardware with each other, but also give them access to feedback from industry professionals. We are particularly interested in posters that discuss:
+We are soliciting **1-2 page extended abstracts** targeting work involving robot hardware, especially encouraging presentation of "positive" and "negative" results (opportunities and challenges) that otherwise might have trouble finding a suitable venue. We hope this will be an opportunity to not just connect researchers working on hardware with each other, but also give them access to feedback from industry professionals. We are particularly interested in work that discuss:
 + Critical software and hardware debugging experiences and insightful failed algorithmic and system level research attempts that are typically not “publishable”,
 + Aggregated “best practice” suggestions for getting up to speed on new robot hardware and for developing hardware and software infrastructures that enable rapid prototyping and easy deployments,
 + Surprising discoveries gleaned from deploying algorithms onto physical robots,
