@@ -13,12 +13,12 @@ We also hope that this workshop will promote additional discussion around the fo
 + What robotics problems are best suited for exploration by industry vs. academia? What are overlapping problems that should be tackled collaboratively?
 + What are the main gaps in academic research results that need to be “filled in” in order to use them in industry? How can researchers work to reduce those gaps?
 
-**In addition, we are soliciting posters** targeting work involving robot hardware, especially encouraging presentation of "positive" and "negative" results (opportunities and challenges) that otherwise might have trouble finding a suitable venue. We hope this will be an opportunity to not just connect researchers working on hardware with each other, but also give them access to feedback from industry professionals. We are particularly interested in posters that discuss:
+**In addition, we are soliciting lightning talks** targeting work involving robot hardware, and especially encourage the presentation of "positive" and "negative" results (opportunities and challenges) that otherwise might have trouble finding a suitable venue. We hope this will be an opportunity to not just connect researchers working on hardware with each other, but also give them access to feedback from both academic and industry professionals. We are particularly interested in works that discuss:
 + Critical software and hardware debugging experiences and insightful failed algorithmic and system level research attempts that are typically not “publishable”,
 + Aggregated “best practice” suggestions for getting up to speed on new robot hardware and for developing hardware and software infrastructures that enable rapid prototyping and easy deployments,
 + Surprising discoveries gleaned from deploying algorithms onto physical robots,
 + Work from early career students and professionals
 
-**To view our call for posters or submit a poster abstract, [click here]({{ "/posters" | relative_url }})!**
+**To view our call for lightning talks or submit an abstract, [click here]({{ "/cfp" | relative_url }})!**
 
 For researchers, this workshop will help lift the curtain on the realities of academic to industry tech transfer. For industry experts, this workshop provides an opportunity to influence the direction of academic research. For both, we hope to provide an venue for integrated dialogue and identification of new potential collaborations

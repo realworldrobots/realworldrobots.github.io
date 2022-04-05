@@ -16,7 +16,7 @@
   image: scott.jpeg
   affiliation: Boston Dynamics
   affiliation_url: https://www.bostondynamics.com/
-  title: Research Scientist
+  title: Senior Director of Robotics Research 
   website: https://www.linkedin.com/in/scott-kuindersma-06a38152/
   email: skuindersma@bostondynamics.com
 - name: Vivian Chu
@@ -33,13 +33,6 @@
   title: Head of Strategy and Growth
   website: https://hk.linkedin.com/in/vuyo-makhuvha-b23496175
   email: vuyo@augustrobotics.com
-- name: Dave Johnson
-  image: dave.jpeg
-  affiliation: Dexai Robotics
-  affiliation_url: https://www.dexai.com/
-  title: CEO
-  website: https://www.linkedin.com/in/dmsjohnson/
-  email: dave@dexai.com
 - name: Sadra Sadraddini
   image: sadra.jpeg
   affiliation: Dexai Robotics
@@ -47,15 +40,3 @@
   title: Principal Robotics Engineer
   website: https://sadraddini.com/
   email: sadra@dexai.com
-# - name: Abraham Schneider
-#   image: 
-#   affiliation: Berkshire Grey
-#   title: Software Engineer
-#   website: 
-#   email: abe@berkshiregray.com 
-# - name: Clara Vu
-#   image: 
-#   affiliation: Veo Robotics
-#   title: Co-Founder and CEO
-#   website: 
-#   email: 
