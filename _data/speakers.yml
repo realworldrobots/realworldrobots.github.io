@@ -5,6 +5,7 @@
   title: CTO and Co-Founder of Ike
   website: https://www.linkedin.com/in/jurvandenberg
   email: jurvandenberg@gmail.com
+
 - name: Kristen Holtz
   image: kristen.jpeg
   affiliation: Skydio
@@ -12,13 +13,15 @@
   title: Head of Tracking & Cinematics
   website: https://www.linkedin.com/in/kristen-holtz
   email: kristen@skydio.com
-- name: Scott Kuindersma
-  image: scott.jpeg
+
+- name: Zack Jackowski
+  image: zack.jpeg
   affiliation: Boston Dynamics
   affiliation_url: https://www.bostondynamics.com/
-  title: Senior Director of Robotics Research 
-  website: https://www.linkedin.com/in/scott-kuindersma-06a38152/
-  email: skuindersma@bostondynamics.com
+  title: Chief Engineer - Spot
+  website: https://www.linkedin.com/in/zachary-jackowski-41190411
+  email: zjackowski@bostondynamics.com
+
 - name: Vivian Chu
   image: vivian.jpg
   affiliation: Diligent Robotics
@@ -26,6 +29,7 @@
   title: Co-Founder and CEO
   website: https://www.vivianchu.org/
   email: vchu@diligentrobots.com
+
 - name: Vuyo Makhuvha
   image: vuyo.jpeg
   affiliation: August Robotics
@@ -33,6 +37,7 @@
   title: Head of Strategy and Growth
   website: https://hk.linkedin.com/in/vuyo-makhuvha-b23496175
   email: vuyo@augustrobotics.com
+
 - name: Sadra Sadraddini
   image: sadra.jpeg
   affiliation: Dexai Robotics
