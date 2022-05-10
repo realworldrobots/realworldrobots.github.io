@@ -1,5 +1,5 @@
 ---
-title: Posters
+title: Call for Lightning Talks
 ---
 
 <figure class="figure">
