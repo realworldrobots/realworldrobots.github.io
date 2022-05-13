@@ -22,13 +22,13 @@ All lightning talks will follow the model of ICRA 2022 where we will require all
 
 ### Submission Instructions
 
-Abstracts should be submitted as **1-2 page** PDFs following the [standard RSS conference format](https://roboticsconference.org/information/authorinfo/) by **May 13, 2022 at 23:59 AoE** to **[EasyChair](https://easychair.org/conferences/?conf=mtgrss22)**. 
+Abstracts should be submitted as **1-2 page** PDFs following the [standard RSS conference format](https://roboticsconference.org/information/authorinfo/) by ~~Friday, May 13, 2022~~ **Deadline extended to Friday, May 20th (23:59 AoE)** to **[EasyChair](https://easychair.org/conferences/?conf=mtgrss22)**. 
 
 Following the model set by the main RSS conference we are going to use a double-blind review process. Authors should not list their names on the title page, and reasonable anonymity should be maintained in the paper. Please see the [main RSS author information page](https://roboticsconference.org/information/authorinfo/) for more information about double-blind reviews.
 
 ### Important Dates
 
-+ **Submission Deadline:** Friday, May 13, 2022 (23:59 AoE)
++ **Submission Deadline:** ~~Friday, May 13, 2022~~ **Deadline extended to Friday, May 20th (23:59 AoE)**
 + **Author Notification:** Friday, May 27, 2022
 + **Final Abstract PDF and Video Submission Deadline**: Thursday, June 23, 2022 (23:59 AoE)
 + **Workshop:** July 1, 2022
