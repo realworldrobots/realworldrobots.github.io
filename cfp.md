@@ -29,7 +29,7 @@ Following the model set by the main RSS conference we are going to use a double-
 ### Important Dates
 
 + **Submission Deadline:** ~~Friday, May 13, 2022~~ **Deadline extended to Friday, May 20th (23:59 AoE)**
-+ **Author Notification:** Friday, May 27, 2022
++ **Author Notification:** Thursday, May 26, 2022
 + **Final Abstract PDF and Video Submission Deadline**: Thursday, June 23, 2022 (23:59 AoE)
 + **Workshop:** July 1, 2022
 
