@@ -26,4 +26,7 @@ We would like to thank **TBD** for their support. -->
 
 {% include people.md people=site.data.organizers title="Organizers" %}
 
-Contact [{{ site.data.settings.contact_email }}](mailto:{{ site.data.settings.contact_email }}) with any questions regarding this workshop.
+{% include people.md people=site.data.programCommittee title="Program Committee" %}
+
+### Contact
+Email [{{ site.data.settings.contact_email }}](mailto:{{ site.data.settings.contact_email }}) with any questions regarding this workshop.

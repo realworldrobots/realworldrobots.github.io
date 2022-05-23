@@ -1,9 +1,9 @@
 - name: Brian Plancher
   image: brian.png
-  affiliation: Harvard University
-  title: PhD Candidate
-  affiliation2: Barnard College
-  title2: Incoming Assistant Professor
+  affiliation2: Harvard University
+  title2: Associate
+  affiliation: Barnard College
+  title: Incoming Assistant Professor
   website: https://brianplancher.com
   email: brian_plancher@g.harvard.edu
 - name: Sarah Tang 

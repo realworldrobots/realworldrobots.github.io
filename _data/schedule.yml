@@ -1,39 +1,31 @@
-- time: 9:00-9:10
+- time: 9:00-9:15
   topic: Welcome and Agenda by the Organizers
-- time: 9:10-10:10
-  topic: Opening Keynote with Q&A
-- time: 10:10-10:40
-  topic: Shorter Talk A with Q&A
-- time: 10:40-11:00
+- time: 9:15-9:55
+  topic: Talk A with Q&A #Vuyo Makhuvha (remote)
+- time: 9:55-10:35
+  topic: Talk B with Q&A #Vivian Chu (remote)
+- time: 10:35-10:50
   topic: Coffee Break
-- time: 11:00-11:30
-  topic: Shorter Talk B with Q&A
+  meal: true
+- time: 10:50-11:30
+  topic: Talk C with Q&A #Zack Jackowski (in person)
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
 - time: 12:00-12:30
   topic: Lighting Talk Q&A Breakouts
-- time: 12:30-1:30
+- time: 12:30-2:00
   topic: Lunch Break
   meal: true
-- time: 1:30-2:00
-  topic: Shorter Talk C with Q&A
-- time: 2:00-2:30
-  topic: Shorter Talk D with Q&A
-- time: 2:30-3:00
-  topic: Shorter Talk E with Q&A
-- time: 3:00-3:20
+- time: 2:00-2:40
+  topic: Talk D with Q&A #Sadra Sadraddini (in person)
+- time: 2:40-3:20
+  topic: Talk E with Q&A #Kristen Holtz (in person)
+- time: 3:20-3:35
   topic: Coffee Break
   meal: true
-- time: 3:20-3:50
-  topic: Shorter Talk F with Q&A
-- time: 3:50-4:50
-  topic: Closing Keynote and Q&A
-- time: 4:50-5:00
+- time: 3:35-4:05
+  topic: Talk F with Q&A #Jur van den Berg (????)
+- time: 4:05-4:45
+  topic: Talk G with Q&A #TBD (????)
+- time: 4:45-5:00
   topic: Workshop Closing by the Organizers
-
-# Jur van den Berg: From the lab to the streets: Deploying algorithms for self-driving cars
-# Kristen Holtz: Human robot interaction for filmmaking
-# Scott Kuindersma: Highly dynamic motion planning and control for hummanoid robots
-# Vivian Chu: Robots to support and empower patient care teams
-# Vuyo Makhuvha - A product view of commercial robotics
-# Dave Johnson and Sadra Sadraddini - Deploying robots with the flexibility to achieve in unstructured environments
