@@ -1,1 +1,1 @@
-Join the [Zoom]({{ site.data.settings.zoom_link }})!
+We will be meeting in the {{ site.data.settings.physical_location }}. You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!

@@ -1,4 +1,10 @@
-### Schedule
+### Schedule, Location, and Time
+
+We will be meeting in the {{ site.data.settings.physical_location }}. 
+
+You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!
+
+{% include localtime.html %}
 
 <div id = "LOCAL_TIME_SCHEDULE"></div>
 
