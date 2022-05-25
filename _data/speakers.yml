@@ -1,10 +1,10 @@
-- name: Jur van den Berg
-  image: jur.jpeg
-  affiliation: Ike (Now part of Nuro)
-  affiliation_url: https://www.nuro.ai/
-  title: CTO and Co-Founder of Ike
-  website: https://www.linkedin.com/in/jurvandenberg
-  email: jurvandenberg@gmail.com
+- name: Vivian Chu
+  image: vivian.jpg
+  affiliation: Diligent Robotics
+  affiliation_url: https://www.diligentrobots.com/
+  title: Co-Founder and CEO
+  website: https://www.vivianchu.org/
+  email: vchu@diligentrobots.com
 
 - name: Kristen Holtz
   image: kristen.jpeg
@@ -22,14 +22,14 @@
   website: https://www.linkedin.com/in/zachary-jackowski-41190411
   email: zjackowski@bostondynamics.com
 
-- name: Vivian Chu
-  image: vivian.jpg
-  affiliation: Diligent Robotics
-  affiliation_url: https://www.diligentrobots.com/
-  title: Co-Founder and CEO
-  website: https://www.vivianchu.org/
-  email: vchu@diligentrobots.com
-
+- name: Shaoshan Liu
+  image: shaoshan.jpeg
+  affiliation: PerceptIn
+  affiliation_url: https://www.nuro.ai/
+  title: Founder and Chairman
+  website: https://www.linkedin.com/in/shaoshanliu
+  email: shaoshan.liu@perceptin.io
+  
 - name: Vuyo Makhuvha
   image: vuyo.jpeg
   affiliation: August Robotics
