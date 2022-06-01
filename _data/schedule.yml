@@ -11,6 +11,14 @@
   topic: Talk C with Q&A #Shaoshan Liu (remote)
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
+  # subtopics:
+  #   - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
+  #     links: 
+  #       - name: "PDF"
+  #         url: "Learning_Agile.pdf"
+  #         local: "1"
+  #       - name: "Video"
+  #         url: ""
 - time: 12:00-12:30
   topic: Lighting Talk Q&A Breakouts
 - time: 12:30-2:00

@@ -19,7 +19,14 @@ You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!
     {% for event in include.schedule %}
     <tr>
       <td>{{event.time}}</td>
-      <td>{{event.topic}}</td>
+      <td>
+        {{event.topic}}
+        {% if event.subtopics %}
+          {% for subtopic in event.subtopics %}
+            <br/>&nbsp; &nbsp; {{ subtopic.title }}{% for link in subtopic.links %}  |  <a href="{% if link.local %}{{ site.baseurl }}/assets/files/{{ link.url }}{% else %}{{ link.url }}{% endif %}">{{ link.name }}</a>{% endfor %}
+          {% endfor %}
+        {% endif %}
+      </td>
     </tr>
     {% endfor %}
   </tbody>
