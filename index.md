@@ -21,12 +21,13 @@ title: false
 ### Registration
 Please visit the main [{{ site.data.settings.conference_short }}]({{ site.data.settings.conference_url }}) website for information on registering for conference workshops.
 
-<!-- ### Supporters
-We would like to thank **TBD** for their support. -->
-
 {% include people.md people=site.data.organizers title="Organizers" %}
 
 {% include people.md people=site.data.programCommittee title="Program Committee" %}
+
+### Supporters
+We would like to thank our supporters:
+{% include supporters.md supporters=site.data.supporters %}
 
 ### Contact
 Email [{{ site.data.settings.contact_email }}](mailto:{{ site.data.settings.contact_email }}) with any questions regarding this workshop.

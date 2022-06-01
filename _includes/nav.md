@@ -9,6 +9,6 @@
 * [Speakers]({{ "/#speakers" | relative_url }})
 * **[Schedule, Location, and Time]({{ "/#schedule-location-and-time" | relative_url }})**
 * [Registration]({{ "/#registration" | relative_url }})
-<!-- * [Supporters]({{ "/#supporters" | relative_url }}) -->
 * [Organizers and PC]({{ "/#organizers" | relative_url }})
+* [Supporters]({{ "/#supporters" | relative_url }})
 * [Contact]({{ "/#contact" | relative_url }})

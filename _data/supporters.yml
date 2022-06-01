@@ -1,0 +1,12 @@
+- name: Harvard John A. Paulson School of Engineering and Applied Sciences
+  image: seas.svg
+  website: https://www.seas.harvard.edu/
+- name: Barnard College, Columbia University
+  image: barnard.svg
+  website: https://cs.barnard.edu
+- name: Waymo
+  image: waymo.svg
+  website: https://waymo.com/
+- name: IEEE Entrepreneurship
+  image: ieee_e.png
+  website: https://entrepreneurship.ieee.org/
