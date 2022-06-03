@@ -38,6 +38,14 @@
   website: https://hk.linkedin.com/in/vuyo-makhuvha-b23496175
   email: vuyo@augustrobotics.com
 
+- name: Collin Otis
+  image: collin.jpeg
+  affiliation: Kodiak Robotics
+  affiliation_url: https://kodiak.ai/
+  title: Head of Perception
+  website: https://www.linkedin.com/in/collinotis
+  email: collin@kodiak.ai
+
 - name: Sadra Sadraddini
   image: sadra.jpeg
   affiliation: Dexai Robotics

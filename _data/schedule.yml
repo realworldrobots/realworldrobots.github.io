@@ -1,14 +1,14 @@
 - time: 9:00-9:15
   topic: Welcome and Agenda by the Organizers
 - time: 9:15-9:55
-  topic: Talk A with Q&A #Vuyo Makhuvha (remote)
+  topic: "Vuyo Makhuvha - August Robtoics"
 - time: 9:55-10:35
-  topic: Talk B with Q&A #Vivian Chu (remote)
+  topic: "Vivian Chu - Diligent Robotics"
 - time: 10:35-10:50
   topic: Break
   meal: true
 - time: 10:50-11:30
-  topic: Talk C with Q&A #Shaoshan Liu (remote)
+  topic: "Shaoshan Liu - PerceptIn"
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
   # subtopics:
@@ -18,22 +18,43 @@
   #         url: "Learning_Agile.pdf"
   #         local: "1"
   #       - name: "Video"
-  #         url: ""
+  #         url: "TBD"
+  #   - title: "Lessons Learned from Large-Scale Mobile Robot Deployments in Warehouse Environments"
+  #     links: 
+  #       - name: "PDF"
+  #         url: "TBD.pdf"
+  #         local: "1"
+  #       - name: "Video"
+  #         url: "TBD"
+  #   - title: "Can you pick that? Problems with Vision for Robotic Pick-and-Place Applications"
+  #     links: 
+  #       - name: "PDF"
+  #         url: "TBD.pdf"
+  #         local: "1"
+  #       - name: "Video"
+  #         url: "TBD"
+  #   - title: "RealAIGym: Education and Research Platform for Studying Athletic Intelligence"
+  #     links: 
+  #       - name: "PDF"
+  #         url: "TBD.pdf"
+  #         local: "1"
+  #       - name: "Video"
+  #         url: "TBD"
 - time: 12:00-12:30
   topic: Lighting Talk Q&A Breakouts
 - time: 12:30-2:00
   topic: Lunch Break
   meal: true
 - time: 2:00-2:40
-  topic: Talk D with Q&A #Kristen Holtz (in person)
+  topic: "Kristen Holtz - Skydio"
 - time: 2:40-3:20
-  topic: Talk E with Q&A #Zack Jackowski (in person)
+  topic: "Zack Jackowski - Boston Dynamics"
 - time: 3:20-3:35
   topic: Break
   meal: true
 - time: 3:35-4:05
-  topic: Talk F with Q&A #Sadra Sadraddini (in person)
+  topic: "Sadra Sadraddini - Dexai Robotics"
 - time: 4:05-4:45
-  topic: Talk G with Q&A #TBD Self Driving (????)
+  topic: "Collin Otis - Kodiak Robotics"
 - time: 4:45-5:00
   topic: Workshop Closing by the Organizers
