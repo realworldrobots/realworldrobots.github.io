@@ -11,29 +11,29 @@
   topic: "Shaoshan Liu - PerceptIn"
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
-  # subtopics:
-  #   - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
+  subtopics:
+    - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
   #     links: 
   #       - name: "PDF"
   #         url: "Learning_Agile.pdf"
   #         local: "1"
   #       - name: "Video"
   #         url: "TBD"
-  #   - title: "Lessons Learned from Large-Scale Mobile Robot Deployments in Warehouse Environments"
+    - title: "Lessons Learned from Large-Scale Mobile Robot Deployments in Warehouse Environments"
   #     links: 
   #       - name: "PDF"
   #         url: "TBD.pdf"
   #         local: "1"
   #       - name: "Video"
   #         url: "TBD"
-  #   - title: "Can you pick that? Problems with Vision for Robotic Pick-and-Place Applications"
+    - title: "Can you pick that? Problems with Vision for Robotic Pick-and-Place Applications"
   #     links: 
   #       - name: "PDF"
   #         url: "TBD.pdf"
   #         local: "1"
   #       - name: "Video"
   #         url: "TBD"
-  #   - title: "RealAIGym: Education and Research Platform for Studying Athletic Intelligence"
+    - title: "RealAIGym: Education and Research Platform for Studying Athletic Intelligence"
   #     links: 
   #       - name: "PDF"
   #         url: "TBD.pdf"

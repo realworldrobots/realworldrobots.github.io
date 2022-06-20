@@ -1,1 +1,1 @@
-We will be meeting in the {{ site.data.settings.physical_location }}. You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!
+We will be meeting in the {{ site.data.settings.physical_location }}. You can also join virtually {% if site.data.settings.zoom_link_on_conference_platform %}{{ site.data.settings.zoom_link_on_conference_platform_instructions }}{% else %}on [Zoom]({{ site.data.settings.zoom_link }}){% endif %}!

@@ -2,7 +2,7 @@
 
 We will be meeting in the {{ site.data.settings.physical_location }}. 
 
-You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!
+You can also join virtually {% if site.data.settings.zoom_link_on_conference_platform %}{{ site.data.settings.zoom_link_on_conference_platform_instructions }}{% else %}on [Zoom]({{ site.data.settings.zoom_link }}){% endif %}.
 
 {% include localtime.html %}
 
@@ -23,7 +23,7 @@ You can also join virtually on [Zoom]({{ site.data.settings.zoom_link }})!
         {{event.topic}}
         {% if event.subtopics %}
           {% for subtopic in event.subtopics %}
-            <br/>&nbsp; &nbsp; {{ subtopic.title }}{% for link in subtopic.links %}  |  <a href="{% if link.local %}{{ site.baseurl }}/assets/files/{{ link.url }}{% else %}{{ link.url }}{% endif %}">{{ link.name }}</a>{% endfor %}
+            <br/>&nbsp; &nbsp; • {{ subtopic.title }}{% for link in subtopic.links %}  |  <a href="{% if link.local %}{{ site.baseurl }}/assets/files/{{ link.url }}{% else %}{{ link.url }}{% endif %}">{{ link.name }}</a>{% endfor %}
           {% endfor %}
         {% endif %}
       </td>
