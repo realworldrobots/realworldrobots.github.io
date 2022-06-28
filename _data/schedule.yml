@@ -12,11 +12,11 @@
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
   subtopics:
-    - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
-      links: 
-        - name: "PDF"
-          url: "Learning_Agile.pdf"
-          local: "1"
+    # - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
+    #   links: 
+    #     - name: "PDF"
+    #       url: "Learning_Agile.pdf"
+    #       local: "1"
   #       - name: "Video"
   #         url: "TBD"
     - title: "Lessons Learned from Large-Scale Mobile Robot Deployments in Warehouse Environments"
