@@ -12,7 +12,7 @@ contact_email: "bplancher@barnard.edu"
 zoom_link: "TBD" #https://harvard.zoom.us/j/93083278440?pwd=RHFyUE1WOHVLOVFlVU0vUXhmRHJtQT09
 zoom_link_on_conference_platform: true
 zoom_link_on_conference_platform_instructions: "through the [conference platform](https://pheedloop.com/RSS2022/virtual/)" # You can join virtually...
-physical_location: "SINDEBAND EAST 414 Room in the [CEPSR Building](https://www.facilities.columbia.edu/building-information/1066) (530 West 120th Street betwen Broadway and Amsterdam)"
+physical_location: "SINDEBAND EAST 414 Room in the [CEPSR Building](https://www.facilities.columbia.edu/building-information/1066) (Go to 116th and Broadway and enter via the main Columbia Campus)"
 map: 
   use_map: true
   path: "/assets/map.pdf"
