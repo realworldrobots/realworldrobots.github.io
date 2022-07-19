@@ -26,6 +26,9 @@ You can also join virtually {% if site.data.settings.zoom_link_on_conference_pla
             <br/>&nbsp; &nbsp; • {{ subtopic.title }}{% for link in subtopic.links %}  |  <a href="{% if link.local %}{{ site.baseurl }}/assets/files/{{ link.url }}{% else %}{{ link.url }}{% endif %}">{{ link.name }}</a>{% endfor %}
           {% endfor %}
         {% endif %}
+        {% if event.links %}
+          {% for link in event.links %}  |  <a href="{% if link.local %}{{ site.baseurl }}/assets/files/{{ link.url }}{% else %}{{ link.url }}{% endif %}">{{ link.name }}</a>{% endfor %}
+        {% endif %}
       </td>
     </tr>
     {% endfor %}

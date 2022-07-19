@@ -9,16 +9,12 @@
   meal: true
 - time: 10:50-11:30
   topic: "Shaoshan Liu - PerceptIn"
+  links: 
+    - name: "Video"
+      url: "https://youtu.be/utMVkJL3hDk"
 - time: 11:30-12:00
   topic: Lighting Talks on Accepted Abstracts
   subtopics:
-    # - title: "Learning Agile, Vision-based Drone Flight: from Simulation to Reality"
-    #   links: 
-    #     - name: "PDF"
-    #       url: "Learning_Agile.pdf"
-    #       local: "1"
-  #       - name: "Video"
-  #         url: "TBD"
     - title: "Lessons Learned from Large-Scale Mobile Robot Deployments in Warehouse Environments"
       links: 
         - name: "PDF"
@@ -31,15 +27,15 @@
         - name: "PDF"
           url: "Can_You_Pick_That.pdf"
           local: "1"
-  #       - name: "Video"
-  #         url: "TBD"
+        - name: "Video"
+          url: "https://youtu.be/s5jqAzMn4L4"
     - title: "RealAIGym: Education and Research Platform for Studying Athletic Intelligence"
       links: 
         - name: "PDF"
           url: "Real_AI_Gym.pdf"
           local: "1"
-  #       - name: "Video"
-  #         url: "TBD"
+        - name: "Video"
+          url: "https://youtu.be/f-A-aj9gHGM"
 - time: 12:00-12:30
   topic: Lighting Talk Q&A Breakouts
 - time: 12:30-2:00
@@ -47,6 +43,9 @@
   meal: true
 - time: 2:00-2:40
   topic: "Kristen Holtz - Skydio"
+  links: 
+    - name: "Video"
+      url: "https://youtu.be/OuGcuihnhdA"
 - time: 2:40-3:20
   topic: "Zack Jackowski - Boston Dynamics"
 - time: 3:20-3:35
