@@ -1,9 +1,19 @@
 - time: 9:00-9:15
   topic: Welcome and Agenda by the Organizers
+  links: 
+    - name: "Slides"
+      local: "1"
+      url: "Workshop_Opening.pdf"
 - time: 9:15-9:55
   topic: "Vuyo Makhuvha - August Robtoics"
+  # links: 
+  #   - name: "Video"
+  #     url: TBD
 - time: 9:55-10:35
   topic: "Vivian Chu - Diligent Robotics"
+  # links: 
+  #   - name: "Video"
+  #     url: TBD
 - time: 10:35-10:50
   topic: Break
   meal: true
@@ -48,12 +58,25 @@
       url: "https://youtu.be/OuGcuihnhdA"
 - time: 2:40-3:20
   topic: "Zack Jackowski - Boston Dynamics"
+  links: 
+    - name: "Video"
+      url: https://youtu.be/v3NNvgpKZAg
 - time: 3:20-3:35
   topic: Break
   meal: true
 - time: 3:35-4:05
   topic: "Sadra Sadraddini - Dexai Robotics"
+  # links: 
+  #   - name: "Video"
+  #     url: TBD
 - time: 4:05-4:45
   topic: "Collin Otis - Kodiak Robotics"
+  # links: 
+  #   - name: "Video"
+  #     url: TBD
 - time: 4:45-5:00
   topic: Workshop Closing by the Organizers
+  links: 
+    - name: "Slides"
+      local: "1"
+      url: "Workshop_Closing.pdf"
