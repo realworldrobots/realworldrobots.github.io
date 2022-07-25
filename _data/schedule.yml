@@ -71,9 +71,9 @@
   #     url: TBD
 - time: 4:05-4:45
   topic: "Collin Otis - Kodiak Robotics"
-  # links: 
-  #   - name: "Video"
-  #     url: TBD
+  links: 
+    - name: "Video"
+      url: https://youtu.be/RJ8S-d-KmuM
 - time: 4:45-5:00
   topic: Workshop Closing by the Organizers
   links: 
