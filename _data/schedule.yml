@@ -6,9 +6,9 @@
       url: "Workshop_Opening.pdf"
 - time: 9:15-9:55
   topic: "Vuyo Makhuvha - August Robtoics"
-  # links: 
-  #   - name: "Video"
-  #     url: TBD
+  links: 
+    - name: "Video"
+      url: "https://youtu.be/M8FLbxbLqlU"
 - time: 9:55-10:35
   topic: "Vivian Chu - Diligent Robotics"
   # links: 
@@ -30,8 +30,8 @@
         - name: "PDF"
           url: "Warehouse_Deployments.pdf"
           local: "1"
-  #       - name: "Video"
-  #         url: "TBD"
+        - name: "Video"
+          url: "https://youtu.be/nGJd2CxXNNU"
     - title: "Can you pick that? Problems with Vision for Robotic Pick-and-Place Applications"
       links: 
         - name: "PDF"
