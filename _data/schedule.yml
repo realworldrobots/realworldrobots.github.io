@@ -66,9 +66,9 @@
   meal: true
 - time: 3:35-4:05
   topic: "Sadra Sadraddini - Dexai Robotics"
-  # links: 
-  #   - name: "Video"
-  #     url: TBD
+  links: 
+    - name: "Video"
+      url: https://youtu.be/3ry_ghj4kqA
 - time: 4:05-4:45
   topic: "Collin Otis - Kodiak Robotics"
   links: 
